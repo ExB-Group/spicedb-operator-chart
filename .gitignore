@@ -1,0 +1,7 @@
+#####
+# AI-specific files
+#####
+
+# Claude Code - personal/local only
+.claude/settings.local.json
+CLAUDE.local.md
